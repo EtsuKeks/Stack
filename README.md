@@ -1,2 +1,2 @@
 # Stack
-Training project. 4'th semester
+Training project, provided as an example for closer studying. 4'th semester
